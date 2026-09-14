@@ -21,19 +21,28 @@ It exists to keep plans visible, show what I am actively working on, and keep a 
 
 ## Planned / Upcoming
 
-- Add upcoming items here.
+- SHUTTLE MODES / FTL DRIVES ○
+- TRAM ◐
+- DRACONIC CATALYST ITEM ○
+- SWORD PARRYING ○
+- HTN / MOB BEVHAIOR FIXXING ○
+- DROP PODS/ SHUTTLEBORDING ◐
+- MILITARY RAIDS ◐
+- SYNDICATE BLACK-OPS MILITARY RAID ○
+- CONTRABAND LIQUIDATION / CONTRABAND LIQUIDATION INTERCEPTION ○
 
 ## Currently Working On
 
-- Add active work here.
+- WESTERN DRAGON PLANETARTY EXPEDITION BOSS ◐
 
 ## Completed
 
-- Move finished work here to keep a visible history of progress.
+NA since creation
 
 ## Long-Term Ideas
 
-- Add lower-priority or future ideas here.
+- A SOLO SURVIVAL SAVABLE LIKE SS14 EXPERIANCE WITH MULTIPLAYER
+- ADVANCED HTN / MOB BEHAVIOR
 
 ## Notes
 
