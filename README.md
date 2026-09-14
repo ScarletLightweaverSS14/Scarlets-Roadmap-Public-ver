@@ -30,6 +30,7 @@ It exists to keep plans visible, show what I am actively working on, and keep a 
 - MILITARY RAIDS ◐
 - SYNDICATE BLACK-OPS MILITARY RAID ○
 - CONTRABAND LIQUIDATION / CONTRABAND LIQUIDATION INTERCEPTION ○
+- ART PAINTING ✕
 
 ## Currently Working On
 
