@@ -22,6 +22,7 @@ It exists to keep plans visible, show what I am actively working on, and keep a 
 ## Planned / Upcoming
 
 - SHUTTLE MODES / FTL DRIVES ○
+- DROP PODS (PERSONEL DROP PODS NOT ITEMS)
 - TRAM ◐
 - DRACONIC CATALYST ITEM ○
 - SWORD PARRYING ○
