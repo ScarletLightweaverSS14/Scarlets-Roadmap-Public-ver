@@ -35,6 +35,8 @@ It exists to keep plans visible, show what I am actively working on, and keep a 
 - ACTUAL BLACKSMITHING ○
 - FACTION TICKET VENDOR (EVENT PURPOSES) ○
 - KINGPIN ○
+- BOSS FIGHT ARENA(S) - LUNAR HELLSCAPE ○
+- THE ABYSS MONSTROSITY
 
 ## Currently Working On
 
